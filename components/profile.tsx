@@ -51,7 +51,7 @@ export default function ProfileHero() {
                         <Image
                         objectPosition="hover"
                         src={ProfileImage}
-                        alt="Landscape picture"
+                        alt="Your Landscape picture"
                         width={200}
                         height={200}
                         placeholder="blur"
